@@ -1,0 +1,3 @@
+setxkbmap es &
+udiskie -t &
+nitrogen --restore &
